@@ -1,0 +1,6 @@
+openai>=1.59.0
+python-dotenv>=1.0.1
+pymupdf>=1.24.10
+supabase>=2.10.0
+langchain-text-splitters>=0.3.2
+streamlit>=1.44.0
